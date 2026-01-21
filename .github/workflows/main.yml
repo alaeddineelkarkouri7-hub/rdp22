@@ -103,7 +103,7 @@ jobs:
           Write-Host "`n=== RDP ACCESS ==="
           Write-Host "Address: $env:TAILSCALE_IP"
           Write-Host "Username: KamiCode"
-          Write-Host "Password: aaaa@123"
+          Write-Host "Password: aaaa_123"
           Write-Host "==================`n"
 
           # Keep runner active indefinitely (or until manually cancelled)
